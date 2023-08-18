@@ -1,5 +1,20 @@
-# Tools
+<style>
+.columns {
+  display: flex;
+}
 
+.column {
+    width: 50%;
+  flex: 1;
+  padding: 10px;
+  margin: 5px;
+}
+
+</style>
+
+
+
+# Tools
 Presenting our in-house plugin, skillfully developed by our talented internal team. This powerful tool is designed to seamlessly integrate into your workflow, allowing you to streamline your daily tasks and boost productivity.
 
 <div class="columns">
@@ -42,18 +57,4 @@ Presenting our in-house plugin, skillfully developed by our talented internal te
 
 
 
-<style>
-.columns {
-  display: flex;
-}
-
-.column {
-    width: 50%;
-  flex: 1;
-  padding: 10px;
-  margin: 5px;
-}
-
-
-</style>
 
