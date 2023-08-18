@@ -47,7 +47,7 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
 
 <div class="columns">
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="notch.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="o.png">
   <div style="margin-top: 16px;">
   <strong>Notch</strong>
     <p>used to show progress or information that needs to be inputted and is crucial for the user to complete the task.</p>
