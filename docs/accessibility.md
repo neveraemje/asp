@@ -50,8 +50,8 @@ Merchants/Purple theme has the following colours, along with the compliance agai
 
 ### Third party/Pink Theme - 
 Third party/Pink theme has the following colours, along with the compliance against the typography that we use in our app -
-![Alt text](./public/image-15.png)
-![Alt text](./public/image-16.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
 
 ### 2. Improve our existing text style library to support better readability
 Provide a new scale with bigger base size to address readability issues in driver/consumer app
