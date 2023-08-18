@@ -42,9 +42,9 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
 
 ![Alt text](card-1.png)
 
-<!-- <div class="columns">
+<div class="columns">
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="o.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./o.png">
   <div style="margin-top: 16px;">
   <strong>Notch</strong>
     <p>used to show progress or information that needs to be inputted and is crucial for the user to complete the task.</p>
@@ -52,7 +52,7 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
   </div>
 
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="fixed.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./fixed.png">
   <div style="margin-top: 16px;">
   <strong>Fixed</strong>
     <p>used to show progress or information that needs to be inputted and is crucial for the user to complete the task.</p>
@@ -60,14 +60,14 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
   </div>
 
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="dialog.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./dialog.png">
   <div style="margin-top: 16px;">
   <strong>Dialog</strong>
     <p>used to show progress or information that needs to be inputted and is crucial for the user to complete the task.</p>
   </div>
   </div>
   
-</div> -->
+</div>
 
 
 
