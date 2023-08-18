@@ -135,7 +135,7 @@ The Nude input has two variant which is regular and large sizes.
     <p>Mark required/mandatory fields with a *.</p>
   </div>
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-30.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-29.png">
     <p>Do not use too long label text.</p>
 
   </div>
