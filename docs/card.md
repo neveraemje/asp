@@ -147,11 +147,11 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
 
 <div class="columns">
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card 3.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card-3.png">
     <p>Use a dismissable notch card when less important information needs to fill on the same page</p>
   </div>
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card 4.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card-4.png">
     <p>Don’t use a dismissable notch card to display user flow that is important to proceed in order to complete at hand. </p>
 
   </div>
@@ -159,11 +159,11 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
 
 <div class="columns">
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card 12.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card-12.png">
     <p>Use the non-dismissable notch card to display a flow that needs to show important information.</p>
   </div>
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card 6.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./card-6.png">
     <p>Don’t use a non-dismissable notch card to display screens that do not contribute to user flow e.g. error screen, confirmation screen, and low-priority information screen.</p>
   </div>
 </div>
