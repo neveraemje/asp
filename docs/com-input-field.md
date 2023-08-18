@@ -46,7 +46,7 @@ The Nude input has two variant which is regular and large sizes.
 
 <div class="columns">
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-2.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-2.png">
   </div>
   <div class="column">
     <strong>Default state</strong>
@@ -55,7 +55,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-2.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-3.png">
   </div>
   <div class="column">
     <strong>Typing state</strong>
@@ -64,7 +64,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-2.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-4.png">
   </div>
   <div class="column">
      <strong>Typed state</strong>
@@ -73,7 +73,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-2.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-5.png">
   </div>
   <div class="column">
      <strong>Error state</strong>
@@ -82,7 +82,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-2.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-6.png">
   </div>
   <div class="column">
      <strong>Inactive state</strong>
@@ -119,11 +119,11 @@ The Nude input has two variant which is regular and large sizes.
 
 <div class="columns">
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-26.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-26.png">
     <p>The nude input field must have a label text.</p>
   </div>
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-28.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-28.png">
     <p>Do not use a nude input field without a label.</p>
 
   </div>
@@ -131,11 +131,11 @@ The Nude input has two variant which is regular and large sizes.
 
 <div class="columns">
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-29.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-29.png">
     <p>Mark required/mandatory fields with a *.</p>
   </div>
   <div class="column">
-    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="image-30.png">
+    <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-30.png">
     <p>Do not use too long label text.</p>
 
   </div>
