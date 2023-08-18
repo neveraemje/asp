@@ -19,7 +19,7 @@ Presenting our in-house plugin, skillfully developed by our talented internal te
 
 <div class="columns">
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-4.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-4.png">
   </div>
   <div class="column">
     <strong>Asphalt - Design Lint</strong>
@@ -28,7 +28,7 @@ Presenting our in-house plugin, skillfully developed by our talented internal te
 </div>
 <div class="columns">
   <div class="column">
-  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-5.png">
+  <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-5.png">
   </div>
   <div class="column">
     <strong>Asphalt - Color Grade</strong>
@@ -37,7 +37,7 @@ Presenting our in-house plugin, skillfully developed by our talented internal te
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-6.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-6.png">
   </div>
   <div class="column">
      <strong>Asphalt - Text Editor</strong>
@@ -46,7 +46,7 @@ Presenting our in-house plugin, skillfully developed by our talented internal te
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./public/image-7.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-7.png">
   </div>
   <div class="column">
      <strong>Asphalt - Motion spec</strong>

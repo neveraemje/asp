@@ -1,5 +1,5 @@
 # Typography
-![Alt text](./public/image-22.png)
+![Alt text](image-22.png)
 
 The Asphalt design system uses Maison Neue as the primary brand typeface for its harmonic style and legibility. For core typography tokens, the Book, Demi, and Bold weights provide versatility across diverse UI use cases.
 
@@ -9,7 +9,7 @@ Choosing typefaces for digital requires cross-functional collaboration with bran
 For Gojek, Maison Neue was selected for its unique personality that strongly reinforces brand recognition. Its legible, contemporary character suits Gojek's friendly tone. Maison Neue offers versatility through 12 styles with extended Latin chars and OpenType features. The Extended and Mono versions provide creative typography flexibility while maintaining a consistent brand identity.
 
 Overall, Maison Neue's diversity and brand alignment make it ideal for conveying Gojek's digital brand experience. Collaborative selection considered personality, legibility, flexibility, and consistency.
-![Alt text](./public/image-23.png)
+![Alt text](image-23.png)
 
 ## Typography in Asphalt Aloha
 ### Typeface
@@ -17,7 +17,7 @@ Since Maison Neue was already decided from the branding guidelines, the next ste
 
 ### Typeweights
 The Asphalt design system uses Maison Neue as the primary brand typeface for its harmonic style and legibility. For core typography tokens, the Book, Demi, and Bold weights provide versatility across diverse UI use cases. Italics were not used due to limited use cases that didn't warrant inclusion in the core typography system.
-![Alt text](./public/image-24.png)
+![Alt text](image-24.png)
 
 ### Hierarchy, sizes, and line height
 For type sizing, we opted for the Major Second scale, which uses a ratio of 1:1.125 between successive sizes. This creates a readable, harmonic progression.

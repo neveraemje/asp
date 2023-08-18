@@ -1,17 +1,17 @@
 # Accessibility
-![Alt text](./public/image-8.png)
+![Alt text](image-8.png)
 
 Gojek gets more than a 100 million users per day. They vary in ages, tech knowledge, frequency of usage etc. In Indonesia alone, 8,56% of citizens have some form of disability. That’s 21,8 million people, and almost half of those have double disabilities (SUPAS 2015). Till now we’ve not designed for disabilities, either temporary or permanent. This leaves a major part of the users struggling to use our app.
 
 
 We’d like to think that Gojek isn’t just for those with perfect eyesight, hearing or tactile ability. If anything, Gojek should make life easier for users, regardless of disabilities. Having a disability, chronic illness or another special need shouldn’t limit your ability to participate fully in activities other people may take for granted.
 
-![Alt text](./public/image-9.png)
+![Alt text](image-9.png)
 
 Be an a11y
 a11y is a numeronym for Accessibility where the number 11 refers to the number of letters omitted. 
 
-![Alt text](./public/image-10.png)
+![Alt text](image-10.png)
 
 
 
@@ -39,14 +39,14 @@ As mentioned before, we have created themes based on the overall product categor
 
 ### Consumer/Green Theme - 
 Consumer/Green theme has the following colours, along with the compliance against the typography that we use in our app -
-![Alt text](./public/image-11.png)
+![Alt text](image-11.png)
 
-![Alt text](./public/image-12.png)
+![Alt text](image-12.png)
 
 ### Merchants/Purple Theme - 
 Merchants/Purple theme has the following colours, along with the compliance against the typography that we use in our app -
-![Alt text](./public/image-13.png)
-![Alt text](./public/image-14.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
 
 ### Third party/Pink Theme - 
 Third party/Pink theme has the following colours, along with the compliance against the typography that we use in our app -
