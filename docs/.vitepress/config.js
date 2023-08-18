@@ -68,7 +68,7 @@ export default {
         collapsible: true,
         items: [
           { text: "Input field", link: "/com-input-field" },
-          // { text: "Card", link: "/card" },
+          { text: "Card", link: "/card" },
 
         
         ],
