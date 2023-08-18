@@ -64,7 +64,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-4.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-33.png">
   </div>
   <div class="column">
      <strong>Typed state</strong>
@@ -73,7 +73,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-5.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-34.png">
   </div>
   <div class="column">
      <strong>Error state</strong>
@@ -82,7 +82,7 @@ The Nude input has two variant which is regular and large sizes.
 </div>
 <div class="columns">
   <div class="column">
-   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-6.png">
+   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="./image-35.png">
   </div>
   <div class="column">
      <strong>Inactive state</strong>
