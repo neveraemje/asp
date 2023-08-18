@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide
+      link: /introductions
     - theme: alt
       text: Roadmap
       link: 
@@ -21,16 +21,18 @@ hero:
 features:
   - icon: ⚡️
     title: Getting started
-    details: Lorem ipsum...
+    # details: Lorem ipsum...
+    link: "/introductions"
   - icon: 🎉
     title: Foundation
-    details: Lorem ipsum...
+    link: "/colours"
   - icon: 🔥
     title: Component
-    details: Lorem ipsum...
+    # details: Lorem ipsum...
+    link: "/com-input-field"
   - icon: 🎀
     title: Roadmap
-    details: Lorem ipsum...
+    details: coming soon
 
 # Meta property
 # head:

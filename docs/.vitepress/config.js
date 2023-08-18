@@ -7,19 +7,19 @@ export default {
     siteTitle: "Asphalt Design System",
     // Navbar Link
     nav: [
-      { text: "About", link: "/about" },
-      { text: "Contact", link: "/contact" },
-      { text: "Guide", link: "/guide" },
-      { text: "Configs", link: "/configs" },
-      {
-        // Dropdown Menu
-        text: "Changelog",
-        items: [
-          { text: "v0.0.1", link: "/item-1" },
-          { text: "v0.0.2", link: "/item-2" },
-          { text: "v0.0.3", link: "/item-3" },
-        ],
-      },
+      { text: "Getting started", link: "/introductions" },
+      { text: "Foundation", link: "/colours" },
+      { text: "Component", link: "/com-input-field" },
+      { text: "Road map", link: "" },
+      // {
+      //   // Dropdown Menu
+      //   text: "Changelog",
+      //   items: [
+      //     { text: "v0.0.1", link: "/item-1" },
+      //     { text: "v0.0.2", link: "/item-2" },
+      //     { text: "v0.0.3", link: "/item-3" },
+      //   ],
+      // },
     ],
     // Social Icons
     // socialLinks: [
@@ -36,27 +36,41 @@ export default {
     // Sidebar
     sidebar: [
       {
-        text: "Section A",
+        text: "Getting started",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          // { text: "Inputfield", link: "/com-input-field" },
+          { text: "Introduction", link: "/introductions" },
+          { text: "Resources (soon)", link: "/get-started" },
+          { text: "Roadmap (soon)", link: "/get-started" },
+          { text: "Tools", link: "/tools" },
+          { text: "Contribute (soon)", link: "/get-started" },
+
         ],
       },
       {
-        text: "Section B",
+        text: "Foundation",
         collapsible: false,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Acceesibility", link: "/accessibility" },
+          { text: "Color", link: "/colours" },
+          { text: "Content guideline (soon)", link: "/get-started" },
+          { text: "Iconography (soon)", link: "/get-started" },
+          { text: "Illustration (soon)", link: "/get-started" },
+          { text: "Motion (soon)", link: "/get-started" },
+          { text: "Shadow (soon)", link: "/get-started" },
+          { text: "Spacing (soon)", link: "/get-started" },
+          { text: "Typography", link: "/typography" }
         ],
       },
       {
-        text: "Section C",
+        text: "Component",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Input field", link: "/com-input-field" },
+          { text: "Card", link: "/card" },
+
+        
         ],
       },
     ],
@@ -69,4 +83,8 @@ export default {
       lineNumbers: true,
     },
   },
+
+  plugins: [
+    ['vuepress-plugin-tabs', {}],
+  ],
 };

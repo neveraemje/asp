@@ -14,5 +14,9 @@
   "dependencies": {
     "vitepress": "^1.0.0-alpha.27",
     "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "markdown-it-container": "^3.0.0",
+    "vuepress-plugin-tabs": "^0.3.0"
   }
 }
