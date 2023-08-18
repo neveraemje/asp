@@ -45,7 +45,7 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
 
 ![Alt text](card-1.png)
 
-<div class="columns">
+<!-- <div class="columns">
   <div class="column">
   <img width="554" alt="Screen Shot 2022-06-17 at 21 06 43" src="o.png">
   <div style="margin-top: 16px;">
@@ -70,7 +70,7 @@ The card component consisted of 3 variant which is notch, fixed, and card-dialog
   </div>
   </div>
   
-</div>
+</div> -->
 
 
 
